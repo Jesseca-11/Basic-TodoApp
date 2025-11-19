@@ -4,4 +4,4 @@ This is a Simple Todo App which was created using Typescript, tailwind and React
 
 ## This project was done by: Jessica Osuagwu.
 
-## the link to the app: 
+## the link to the app: https://basic-todo-app-zng5.vercel.app/
